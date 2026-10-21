@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Prestige Home//Black Friday 2026//RO
+PRODID:Prestige Home
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:bf-vip-2026@prestigehome.ro
+UID:bf-2026-prg
 DTSTAMP:20261012T144600Z
-DTSTART:20261113T060000Z
-DTEND:20261113T215959Z
-SUMMARY:🔴 Black Friday e aici!
+DTSTART:20261022T060000Z
+DTEND:20261022T215959Z
+SUMMARY:🔥 Black Friday e aici!
 DESCRIPTION:Acces VIP activat.\n\nFolosește codul BF-VIP-20 pentru 20% extra reducere la canapele și paturi.\n\nIntră acum: https://www.prestigehome.ro/black-friday?utm_source=ics&utm_medium=calendar
-URL:https://www.prestigehome.ro/black-friday?utm_source=ics&utm_medium=calendar
-LOCATION:Prestige Home (Online)
+URL:https://www.prestigehome.ro
+LOCATION:Prestige Home (Str. Unităţii, Nr. 38, Baloteşti, Ilfov)
 BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reducerea ta VIP te așteaptă!
-TRIGGER:-PT15M
+ACTION: DISPLAY
+DESCRIPTION: Cele mai mici prețuri din an a inceput la Prestige Home
+TRIGGER:PT0M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
