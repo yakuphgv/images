@@ -16,13 +16,13 @@ DTSTAMP:20261025T183300Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261109
 SUMMARY:🔥 Cele mai mici prețuri din an
-DESCRIPTION:Fii cu ochii pe inbox pe 2 noiembrie. Te așteaptă un beneficiu exclusiv. \n\n🔔 Adaugă acest eveniment în calendar și primește o notificare când începe. \n\nPână atunci, adaugă-ți produsele preferate în coș 🛒❤️ \n https://www.prestigehome.ro
+DESCRIPTION:Fii cu ochii pe inbox pe 2 noiembrie. Te așteaptă un beneficiu exclusiv. \n\n 🔔 Adaugă acest eveniment în calendar și primește o notificare când începe. \n\n Până atunci, adaugă-ți produsele preferate în coș 🛒❤️ \n https://www.prestigehome.ro
 URL:https://www.prestigehome.ro
 LOCATION:Prestige Home (Online)
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Cele mai mici prețuri din an au început acum la Prestige Home!
-TRIGGER:P1D
+TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 END:VCALENDAR
