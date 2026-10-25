@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Prestige Home//Black Friday//EN
+PRODID:-//Prestige Home//Black Friday//RO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 REFRESH-INTERVAL;VALUE=DURATION:PT1M
@@ -11,19 +11,13 @@ CLASS:PUBLIC
 CATEGORIES:Promotions,Sales
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-ATTACH;FMTTYPE=image/png:https://raw.githubusercontent.com/yakuphgv/images/refs/heads/main/Octomber-campaign-email/section-1.png
-UID:bf-2026-prg-test2
+UID:bf-2026-prg
 DTSTAMP:20261025T183300Z
-DTSTART:20261025T183500Z
-DTEND:20261025T210000Z
-SUMMARY:Mai devreme decât crezi...
-DESCRIPTION:Pe 2 noiembrie, ți-am pregătit ceva special. \n\n Fii cu ochii pe inbox pe 2 noiembrie. Te așteaptă un beneficiu exclusiv. \n\n 🔔 Adaugă acest eveniment în calendar și primește o notificare când începe. \n\n Până atunci, adaugă-ți produsele preferate în coș 🛒❤️ \n https://www.prestigehome.ro
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261109
+SUMMARY:🔥 Cele mai mici prețuri din an
+DESCRIPTION:Fii cu ochii pe inbox pe 2 noiembrie. Te așteaptă un beneficiu exclusiv. \n\n 🔔 Adaugă acest eveniment în calendar și primește o notificare când începe. \n\n Până atunci, adaugă-ți produsele preferate în coș 🛒❤️ \n https://www.prestigehome.ro
 URL:https://www.prestigehome.ro
 LOCATION:Prestige Home (Online)
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Cele mai mici prețuri din an au început acum la Prestige Home!
-TRIGGER:PT0M
-END:VALARM
 END:VEVENT
 END:VCALENDAR
