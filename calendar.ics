@@ -4,16 +4,19 @@ PRODID:-//Prestige Home//Black Friday//RO
 X-WR-CALNAME:Prestige Home
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+REFRESH-INTERVAL;VALUE=DURATION:PT1M
+X-PUBLISHED-TTL:PT1M
 BEGIN:VEVENT
 PRIORITY:1
 GEO:44.613188;26.127195
 CLASS:PUBLIC
 CATEGORIES:Important
+TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 UID:bf-2026-prg
 DTSTAMP:20261025T183300Z
-DTSTART:20261102T090000
-DTEND:20261109T090000
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261109
 SUMMARY:🔥 Cele mai mici prețuri din an
 DESCRIPTION:📨 Fii cu ochii pe inbox pe 2 NOIEMBRIE. Te așteaptă un beneficiu exclusiv.\n\n🔔 Adaugă acest eveniment în calendar și primește o notificare când începe.\n\nPână atunci, adaugă-ți produsele preferate în coș 🛒❤️\nhttps://www.prestigehome.ro
 URL:https://www.prestigehome.ro
@@ -21,7 +24,7 @@ LOCATION:Prestige Home (Online)
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Cele mai mici prețuri din an au început acum la Prestige Home!
-TRIGGER:-PT0M
+TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 END:VCALENDAR
